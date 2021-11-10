@@ -1,5 +1,5 @@
 # DNanoBaseCasDevSy
-This repository is create for source code and file back-up of the project `DNanoBaseCasDevSy`.
+This repository is created for source code and file back-up of the project `DNanoBaseCasDevSy`.
 ## 2021/11/10
 ### Digest
 Used Bathe Lab TALOS（lcbb/TALOS: Designer scaffolded DNA 6HB-based wireframe nanoparticles (github.com)）design a simple icosahedron wireframe structure.
