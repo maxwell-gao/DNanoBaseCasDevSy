@@ -45,3 +45,5 @@ TALOS cannot generate  a wireframe structure with radial line, and the sequences
      * Midium # of bases in stap strand  : 40
      * Maximum # of bases in stap strand : 60
 
+## 2021/11/20
+Reconstitute the file tree and upload the manual sequences and structures.
