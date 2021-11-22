@@ -1,5 +1,13 @@
 # DNanoBaseCasDevSy
 This repository is created for source code and file back-up of the project `DNanoBaseCasDevSy`.
+
+# Five Key Node
+1. Origami buliding.
+2. Flurescence probe binding and 
+3. GFP-Cas-Origami complex construction.
+4. EM and electronphoresis structure verification.
+5. HDR and NHEJ measure.
+
 ## 2021/11/10
 ### Digest
 Used Bathe Lab TALOS（lcbb/TALOS: Designer scaffolded DNA 6HB-based wireframe nanoparticles (github.com)）design a simple icosahedron wireframe structure.
@@ -47,3 +55,5 @@ TALOS cannot generate  a wireframe structure with radial line, and the sequences
 
 ## 2021/11/20
 Reconstitute the file tree and upload the manual sequences and structures.
+
+
